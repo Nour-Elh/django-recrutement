@@ -2,11 +2,12 @@
 
 ## Description
 
-API REST de gestion de candidats pour une plateforme de recrutement, réalisée en Django + Django REST Framework + PostgreSQL, avec documentation automatique Swagger.
+API REST de gestion de candidats **et de recruteurs** pour une plateforme de recrutement, réalisée en Django + Django REST Framework + PostgreSQL, avec documentation automatique Swagger.
 
 ## Fonctionnalités
 
 - CRUD candidats (créer, lire, modifier, supprimer)
+- CRUD recruteurs (créer, lire, modifier, supprimer)
 - API RESTful
 - Documentation interactive via Swagger (OpenAPI)
 - Base de données PostgreSQL
