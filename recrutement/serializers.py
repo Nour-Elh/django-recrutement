@@ -5,3 +5,9 @@ class CandidatSerializer(serializers.ModelSerializer):
     class Meta:
         model = Candidat
         fields = '__all__'
+from .models import Recruteur
+
+class RecruteurSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Recruteur
+        fields = '__all__'
