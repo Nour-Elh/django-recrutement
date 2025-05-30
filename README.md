@@ -19,6 +19,10 @@ API REST de gestion de candidats **et de recruteurs** pour une plateforme de rec
    git clone https://github.com/Nour-Elh/django-recrutement.git
    cd django-recrutement
 
+## Diagramme UML
+
+![Diagramme UML](docs/uml.png)
+
 ## Auteur
 
 Nour El houda Khoukhi
