@@ -18,3 +18,7 @@ API REST de gestion de candidats **et de recruteurs** pour une plateforme de rec
    ```bash
    git clone https://github.com/Nour-Elh/django-recrutement.git
    cd django-recrutement
+
+## Auteur
+
+Nour El houda Khoukhi
